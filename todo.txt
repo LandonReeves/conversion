@@ -1,3 +1,4 @@
 Fahrenheit to celsius
 metres to centimetres
 hour to minutes
+degrees to radians
